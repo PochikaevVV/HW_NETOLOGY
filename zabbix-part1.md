@@ -141,7 +141,66 @@ pvv@REMBO MINGW64 ~/zabbix-part1 (main)
 ![z2](https://github.com/PochikaevVV/HW_netology/blob/main/img/z2_3.png)
 ![z2](https://github.com/PochikaevVV/HW_netology/blob/main/img/z2_4.png)
 
+```
+pvv@REMBO MINGW64 ~/zabbix-part1 (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
 
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        img/z2_1.png
+        img/z2_2.png
+        img/z2_3.png
+        img/z2_4.png
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+pvv@REMBO MINGW64 ~/zabbix-part1 (main)
+$ git add *
+
+pvv@REMBO MINGW64 ~/zabbix-part1 (main)
+$ git commit -m "z2"
+[main 066bb62] z2
+ 4 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 img/z2_1.png
+ create mode 100644 img/z2_2.png
+ create mode 100644 img/z2_3.png
+ create mode 100644 img/z2_4.png
+
+pvv@REMBO MINGW64 ~/zabbix-part1 (main)
+$ git push origin main
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (7/7), 139.95 KiB | 23.33 MiB/s, done.
+Total 7 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/PochikaevVV/HW_netology.git
+   1344026..066bb62  main -> main
+
+pvv@REMBO MINGW64 ~/zabbix-part1 (main)
+$ git add *
+
+pvv@REMBO MINGW64 ~/zabbix-part1 (main)
+$ git commit -m "z2"
+[main 25b1731] z2
+ 1 file changed, 6 insertions(+)
+
+pvv@REMBO MINGW64 ~/zabbix-part1 (main)
+$ git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 371 bytes | 371.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/PochikaevVV/HW_netology.git
+   066bb62..25b1731  main -> main
+
+
+```
 
 ## Задание 3 со звёздочкой*
 Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
