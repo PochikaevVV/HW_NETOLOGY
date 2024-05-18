@@ -1,6 +1,5 @@
 # Домашнее задание к занятию «Система мониторинга Zabbix» - «Почикаев Василий»
 
-В
 ### Задание 1 
 
 Установите Zabbix Server с веб-интерфейсом.
@@ -20,7 +19,7 @@
 
 ![z](https://github.com/PochikaevVV/HW_netology/blob/main/img/z1_1.png)
 
-'
+```
 pvv@REMBO MINGW64 ~
 $ cd zabbix-part1/
 
@@ -116,7 +115,7 @@ To https://github.com/PochikaevVV/HW_netology.git
 
 pvv@REMBO MINGW64 ~/zabbix-part1 (main)
 
-'
+```
 
 ### Задание 2 
 
