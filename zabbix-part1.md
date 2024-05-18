@@ -136,6 +136,12 @@ pvv@REMBO MINGW64 ~/zabbix-part1 (main)
 
 ---
 ### Решение 
+![z2](https://github.com/PochikaevVV/HW_netology/blob/main/img/z2_1.png)
+![z2](https://github.com/PochikaevVV/HW_netology/blob/main/img/z2_2.png)
+![z2](https://github.com/PochikaevVV/HW_netology/blob/main/img/z2_3.png)
+![z2](https://github.com/PochikaevVV/HW_netology/blob/main/img/z2_4.png)
+
+
 
 ## Задание 3 со звёздочкой*
 Установите Zabbix Agent на Windows (компьютер) и подключите его к серверу Zabbix.
