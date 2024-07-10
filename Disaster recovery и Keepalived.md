@@ -22,7 +22,9 @@
 
 
 * Скрипт
+
 ![Скриншот](https://github.com/PochikaevVV/HW_netology/blob/main/img/Screenshot_chek_nginx.sh.png)
 * Настройки Keepalived
+
 ![Скриншот1](https://github.com/PochikaevVV/HW_netology/blob/main/img/keepalive_conf_master.png)
 ![Скриншот2](https://github.com/PochikaevVV/HW_netology/blob/main/img/keepalive_conf_backup.png)
