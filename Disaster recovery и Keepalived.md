@@ -30,3 +30,4 @@
 ![Скриншот2](https://github.com/PochikaevVV/HW_netology/blob/main/img/keepalive_conf_backup.png)
 
 * Проверка доступности
+![Скриншот3](https://github.com/PochikaevVV/HW_netology/blob/main/img/keepalive_check.png)
