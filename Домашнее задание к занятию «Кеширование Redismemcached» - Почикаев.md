@@ -32,7 +32,7 @@
 Установите и запустите memcached.
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
-
+### Решение
 ![Скриншот](https://github.com/PochikaevVV/HW_netology/blob/main/img/status_memcached.png)
 
 ---
@@ -42,7 +42,10 @@
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5. 
 
 *Приведите скриншот, на котором видно, что спустя 5 секунд ключи удалились из базы.*
+
 За 5 секунд не успевал проверить имя, сделал сначала ttl 20 а потом 5
+### Решение
+
 ![Скриншот](https://github.com/PochikaevVV/HW_netology/blob/main/img/memcached_z3.png)
 ---
 
