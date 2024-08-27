@@ -39,6 +39,7 @@
 *Приведите скриншот команды 'curl -X GET 'localhost:9200/_cluster/health?pretty', сделанной на сервере с установленным Elasticsearch. Где будет виден нестандартный cluster_name*.
 
 ---
+![Скриншот](https://github.com/PochikaevVV/HW_netology/blob/main/img/ELK_z1.png)
 
 ### Задание 2. Kibana
 
