@@ -57,7 +57,7 @@
 *Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.*
 
 ---
-
+![Скриншот](https://github.com/PochikaevVV/HW_netology/blob/main/img/ELK_z3_nginx_log.png)
 ### Задание 4. Filebeat. 
 
 Установите и запустите Filebeat. Переключите поставку логов Nginx с Logstash на Filebeat. 
