@@ -48,6 +48,12 @@ $ pip install pika
 
 ---
 
+![скрин](https://github.com/PochikaevVV/HW_netology/blob/main/img/rabbitmq_z2_1.png)
+
+![скрин](https://github.com/PochikaevVV/HW_netology/blob/main/img/rabbitmq_z2_2.png)
+
+
+
 ### Задание 3. Подготовка HA кластера
 
 Используя Vagrant или VirtualBox, создайте вторую виртуальную машину и установите RabbitMQ.
